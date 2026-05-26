@@ -102,13 +102,13 @@ export default function About() {
                 <div className="text-center">
                   <div className="relative w-40 h-40 mx-auto mb-4 rounded-full overflow-hidden">
                   <Image 
-                      src="/sean.jpg" 
-                      alt="Sean"
+                      src="/bella.jpg" 
+                      alt="Isabella"
                       fill // This makes it fill the circular div
                       className="object-cover" // This crops the photo to a perfect circle
                     />
                   </div>
-                  <h3 className="text-xl font-semibold text-blue-800">Sean Lee</h3>
+                  <h3 className="text-xl font-semibold text-blue-800">Isabella Merhi</h3>
                   <p className="text-blue-600">Vice President</p>
                   <p className="text-gray-600 mt-2">Mechanical Engineering</p>
                 </div>
@@ -116,13 +116,13 @@ export default function About() {
                 <div className="text-center">
                   <div className="relative w-40 h-40 mx-auto mb-4 rounded-full overflow-hidden">
                   <Image 
-                      src="/bella.jpg" 
-                      alt="bella"
+                      src="/vincent.jpg" 
+                      alt="Vincent"
                       fill // This makes it fill the circular div
                       className="object-cover" // This crops the photo to a perfect circle
                     />
                   </div>
-                  <h3 className="text-xl font-semibold text-blue-800">Isabella Merhi</h3>
+                  <h3 className="text-xl font-semibold text-blue-800">Vincent Truong</h3>
                   <p className="text-blue-600">Secretary</p>
                   <p className="text-gray-600 mt-2">Mechanical Engineering</p>
                 </div>
@@ -130,14 +130,14 @@ export default function About() {
                 <div className="text-center">
                   <div className="relative w-40 h-40 mx-auto mb-4 rounded-full overflow-hidden shadow-inner bg-gray-100">
                     <Image 
-                      src="/adi.jpg" 
-                      alt="Adi"
+                      src="/princess.jpg" 
+                      alt="Princess"
                       fill // This makes it fill the circular div
                       className="object-cover" // This crops the photo to a perfect circle
                     />
                   </div>
 
-                  <h3 className="text-xl font-semibold text-blue-800">Adithya Dasarathi</h3>
+                  <h3 className="text-xl font-semibold text-blue-800">Princess Arrozal</h3>
                   <p className="text-blue-600">Treasurer</p>
                   <p className="text-gray-600 mt-2">Computer Science</p>
                 </div>
@@ -148,14 +148,14 @@ export default function About() {
                   <div className="flex items-center">
                     <div className="relative w-16 h-16 rounded-full overflow-hidden mr-4">
                     <Image 
-                      src="/jorge.jpg" 
-                      alt="Jorge"
+                      src="/sean.jpg" 
+                      alt="Sean"
                       fill // This makes it fill the circular div
                       className="object-cover" // This crops the photo to a perfect circle
                     />
                     </div>
                     <div>
-                      <h4 className="font-semibold text-blue-800">Jorge Castellanos</h4>
+                      <h4 className="font-semibold text-blue-800">Sean Lee</h4>
                       <p className="text-blue-600">Project Manager</p>
                       <p className="text-gray-600">Industrial Engineering</p>
                     </div>
@@ -163,14 +163,29 @@ export default function About() {
                   <div className="flex items-center">
                     <div className="relative w-16 h-16 rounded-full overflow-hidden mr-4">
                     <Image 
-                      src="/princess.jpg" 
-                      alt="Princess"
+                      src="/daniel.jpg" 
+                      alt="Daniel"
                       fill // This makes it fill the circular div
                       className="object-cover" // This crops the photo to a perfect circle
                     />
                     </div>
                     <div>
-                      <h4 className="font-semibold text-blue-800">Princess Arrozal</h4>
+                      <h4 className="font-semibold text-blue-800">Daniel Ugueto</h4>
+                      <p className="text-gray-600">Project Manager</p>
+                      <p className="text-gray-600">Industrial Engineering</p>
+                    </div>
+                  </div>
+                  <div className="flex items-center">
+                    <div className="relative w-16 h-16 rounded-full overflow-hidden mr-4">
+                    <Image 
+                      src="/kylie.jpg" 
+                      alt="Kylie"
+                      fill // This makes it fill the circular div
+                      className="object-cover" // This crops the photo to a perfect circle
+                    />
+                    </div>
+                    <div>
+                      <h4 className="font-semibold text-blue-800">Kylie Walters</h4>
                       <p className="text-blue-600">Fundraising Chair</p>
                       <p className="text-gray-600">Computer Science</p>
                     </div>
@@ -179,7 +194,7 @@ export default function About() {
                     <div className="relative w-16 h-16 rounded-full overflow-hidden mr-4">
                     <Image 
                       src="/kei.jpg" 
-                      alt="Kei"
+                      alt="Keira"
                       fill // This makes it fill the circular div
                       className="object-cover" // This crops the photo to a perfect circle
                     />
