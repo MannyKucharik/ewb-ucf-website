@@ -181,8 +181,8 @@ export default function Home() {
               Join our next general body meeting to find out how you can get involved with Engineers Without Borders UCF.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/get-involved" className="bg-white text-blue-700 hover:bg-gray-100 px-8 py-4 rounded-full font-medium transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
-                Join Our Team
+              <Link href="/events" className="bg-white text-blue-700 hover:bg-gray-100 px-8 py-4 rounded-full font-medium transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
+                See our Schedule
               </Link>
             </div>
           </div>
