@@ -125,7 +125,7 @@ export default function Projects() {
           <div className="max-w-5xl mx-auto">
             <h2 className="text-3xl font-bold text-blue-800 mb-6">Past Projects</h2>
             <p className="text-gray-700 leading-relaxed mb-10">
-              Over the years, our chapter has successfully completed several projects that continue to benefit communities worldwide.
+              With your help, we can make this list longer!
             </p>
             
             <div className="space-y-8">
@@ -136,69 +136,19 @@ export default function Projects() {
                     <div 
                       className="absolute inset-0 bg-cover bg-center"
                       style={{
-                        backgroundImage: "url('https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?auto=format&fit=crop&w=800&q=80')"
+                        backgroundImage: "url('mare_brignol.jpg')"
                       }}
                     />
                   </div>
                   <div className="md:w-2/3 p-6">
-                    <h3 className="text-xl font-semibold text-blue-800 mb-2">Dominican Republic Medical Clinic (2021)</h3>
+                    <h3 className="text-xl font-semibold text-blue-800 mb-2">Mare Brignol Project (2007-2009)</h3>
                     <p className="text-gray-600 mb-4">
-                      Installed solar panels and battery backup systems for a rural medical clinic, ensuring reliable power for critical medical equipment during outages.
-                    </p>
-                    <div className="flex flex-wrap gap-2">
-                      <span className="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded">Solar Energy</span>
-                      <span className="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded">Healthcare</span>
-                      <span className="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded">Electrical</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-              {/* Past Project 2 */}
-              <div className="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-all">
-                <div className="md:flex">
-                  <div className="md:w-1/3 relative h-60 md:h-auto">
-                    <div 
-                      className="absolute inset-0 bg-cover bg-center"
-                      style={{
-                        backgroundImage: "url('https://images.unsplash.com/photo-1538300342682-cf57afb97285?auto=format&fit=crop&w=800&q=80')"
-                      }}
-                    />
-                  </div>
-                  <div className="md:w-2/3 p-6">
-                    <h3 className="text-xl font-semibold text-blue-800 mb-2">Honduras Water Distribution System (2019)</h3>
-                    <p className="text-gray-600 mb-4">
-                      Designed and implemented a gravity-fed water distribution system serving three villages with clean drinking water, benefiting over 2,000 residents.
-                    </p>
-                    <div className="flex flex-wrap gap-2">
-                      <span className="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded">Water</span>
-                      <span className="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded">Civil Engineering</span>
-                      <span className="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded">Community Development</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-              {/* Past Project 3 */}
-              <div className="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-all">
-                <div className="md:flex">
-                  <div className="md:w-1/3 relative h-60 md:h-auto">
-                    <div 
-                      className="absolute inset-0 bg-cover bg-center"
-                      style={{
-                        backgroundImage: "url('https://images.unsplash.com/photo-1541807360746-039080941306?auto=format&fit=crop&w=800&q=80')"
-                      }}
-                    />
-                  </div>
-                  <div className="md:w-2/3 p-6">
-                    <h3 className="text-xl font-semibold text-blue-800 mb-2">Nicaragua Sanitation Project (2017)</h3>
-                    <p className="text-gray-600 mb-4">
-                      Constructed eco-friendly sanitation facilities for a school serving 500 students, along with an educational program on hygiene practices.
+                      Installed slow-sand water filters, constructed ferro-cement cisterns, and more in order to help small village community maintain safer and accessible water standards.
                     </p>
                     <div className="flex flex-wrap gap-2">
                       <span className="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded">Sanitation</span>
-                      <span className="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded">Education</span>
-                      <span className="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded">Public Health</span>
+                      <span className="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded">Reliability</span>
+                      <span className="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded">Storage</span>
                     </div>
                   </div>
                 </div>

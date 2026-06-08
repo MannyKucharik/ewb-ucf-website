@@ -36,7 +36,7 @@ export default function About() {
             <div className="mb-16">
               <h2 className="text-3xl font-bold text-blue-800 mb-6">Our Mission</h2>
               <p className="text-gray-700 leading-relaxed">
-                Engineers Without Borders UCF builds a better world through engineering projects that empower communities to meet their basic human needs and equip leaders to solve the world's most pressing challenges. We work closely with communities to identify their specific needs and develop sustainable, culturally appropriate solutions that can be maintained long after our involvement.
+              Following our chapter's exciting reinstatement in 2024, Engineers Without Borders UCF has been dedicated to building a better world through engineering projects that empower communities to meet their basic human needs and equip leaders to solve the world's most pressing challenges. We work closely with communities to identify their specific needs and develop sustainable, culturally appropriate solutions that can be maintained long after our involvement.
               </p>
               <div className="mt-8 grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div className="bg-blue-50 p-6 rounded-xl">
@@ -124,7 +124,7 @@ export default function About() {
                   </div>
                   <h3 className="text-xl font-semibold text-blue-800">Vincent Truong</h3>
                   <p className="text-blue-600">Secretary</p>
-                  <p className="text-gray-600 mt-2">Mechanical Engineering</p>
+                  <p className="text-gray-600 mt-2">Civil Engineering</p>
                 </div>
                 {/* Team Member 4 */}
                 <div className="text-center">
@@ -171,8 +171,8 @@ export default function About() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-blue-800">Daniel Ugueto</h4>
-                      <p className="text-gray-600">Project Manager</p>
-                      <p className="text-gray-600">Industrial Engineering</p>
+                      <p className="text-blue-600">Project Manager</p>
+                      <p className="text-gray-600">Mechanical Engineering</p>
                     </div>
                   </div>
                   <div className="flex items-center">
@@ -187,7 +187,7 @@ export default function About() {
                     <div>
                       <h4 className="font-semibold text-blue-800">Kylie Walters</h4>
                       <p className="text-blue-600">Fundraising Chair</p>
-                      <p className="text-gray-600">Computer Science</p>
+                      <p className="text-gray-600">Construction Engineering</p>
                     </div>
                   </div>
                   <div className="flex items-center">

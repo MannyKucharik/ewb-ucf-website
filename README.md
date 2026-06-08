@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# EWB-Website-
-EWB Website 
-=======
 # Engineering Without Borders UCF Website
 
 This is the official website for the University of Central Florida chapter of Engineering Without Borders. The website showcases the chapter's mission, projects, and provides information on how to get involved.
@@ -91,4 +87,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 For questions or assistance with the website, please contact the EWB-UCF technology team at [email@example.com](mailto:email@example.com).
->>>>>>> 5577f50ac0ea9166617deb33991f2806f5eb7ed4
