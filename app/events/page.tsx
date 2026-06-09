@@ -63,7 +63,7 @@ export default function News() {
                   <div 
                     className="absolute inset-0 bg-cover bg-center"
                     style={{
-                      backgroundImage: "url('https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?auto=format&fit=crop&w=800&q=80')"
+                      backgroundImage: "url(/event_filler.jpg)"
                     }}
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent"></div>
@@ -91,7 +91,7 @@ export default function News() {
                   <div 
                     className="absolute inset-0 bg-cover bg-center"
                     style={{
-                      backgroundImage: "url('https://images.unsplash.com/photo-1558403194-611308249627?auto=format&fit=crop&w=800&q=80')"
+                      backgroundImage: "url(/spikeball.jpg)"
                     }}
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent"></div>

@@ -141,7 +141,7 @@ export default function Projects() {
                     />
                   </div>
                   <div className="md:w-2/3 p-6">
-                    <h3 className="text-xl font-semibold text-blue-800 mb-2">Mare Brignol Project (2007-2009)</h3>
+                    <h3 className="text-xl font-semibold text-blue-800 mb-2">Mare Brignol Project (2007-2016)</h3>
                     <p className="text-gray-600 mb-4">
                       Installed slow-sand water filters, constructed ferro-cement cisterns, and more in order to help small village community maintain safer and accessible water standards.
                     </p>

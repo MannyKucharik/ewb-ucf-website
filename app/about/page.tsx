@@ -156,8 +156,8 @@ export default function About() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-blue-800">Sean Lee</h4>
-                      <p className="text-blue-600">Project Manager</p>
-                      <p className="text-gray-600">Industrial Engineering</p>
+                      <p className="text-blue-600">Project Lead</p>
+                      <p className="text-gray-600">Mechanical Engineering</p>
                     </div>
                   </div>
                   <div className="flex items-center">
@@ -171,7 +171,7 @@ export default function About() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-blue-800">Daniel Ugueto</h4>
-                      <p className="text-blue-600">Project Manager</p>
+                      <p className="text-blue-600">Project Lead</p>
                       <p className="text-gray-600">Mechanical Engineering</p>
                     </div>
                   </div>
