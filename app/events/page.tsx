@@ -23,7 +23,7 @@ export default function News() {
         <div className="container mx-auto px-6 relative z-20">
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Events</h1>
-            <p className="text-xl text-gray-200">Stay updated with our latest activities and upcoming opportunities</p>
+            <p className="text-xl text-gray-200">Stay updated with our latest activities and upcoming opportunities.</p>
           </div>
         </div>
       </section>

@@ -22,7 +22,7 @@ export default function About() {
         <div className="container mx-auto px-6 relative z-20">
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">About Us</h1>
-            <p className="text-xl text-gray-200">Making a Knight Difference in Communities Worldwide.</p>
+            <p className="text-xl text-gray-200">Building sustainable solutions for a better tomorrow.</p>
           </div>
         </div>
       </section>
