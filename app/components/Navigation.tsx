@@ -31,6 +31,10 @@ export default function Navigation({ currentPage }: { currentPage: string }) {
               height={80} 
               className="object-contain"
             />
+            {/* Shortened abbreviation on small/medium screens, full text on large desktops */}
+            <span className="font-bold text-lg text-blue-800 sm:text-xl block lg:hidden">
+              EWB UCF
+            </span>
             <span className="font-bold text-xl text-blue-800 hidden lg:block">
               Engineers Without Borders UCF
             </span>
@@ -74,13 +78,13 @@ export default function Navigation({ currentPage }: { currentPage: string }) {
         </div>
 
         {/* Mobile Navigation Menu */}
-        <div className={`md:hidden transition-all duration-300 overflow-hidden ${isMenuOpen ? 'max-h-96 py-4' : 'max-h-0'}`}>
-          <div className="flex flex-col space-y-4 pb-4">
-            <Link href="/" className="px-4 py-2" onClick={() => setIsMenuOpen(false)}>Home</Link>
-            <Link href="/about" className="px-4 py-2" onClick={() => setIsMenuOpen(false)}>About Us</Link>
-            <Link href="/projects" className="px-4 py-2" onClick={() => setIsMenuOpen(false)}>Projects</Link>
-            <Link href="/get-involved" className="px-4 py-2" onClick={() => setIsMenuOpen(false)}>Get Involved</Link>
-            <Link href="/events" className="px-4 py-2" onClick={() => setIsMenuOpen(false)}>Events</Link>
+        <div className={`md:hidden bg-white border-t border-gray-800 shadow-xl transition-all duration-300 overflow-hidden ${isMenuOpen ? 'max-h-96 py-4' : 'max-h-0'}`}>
+            <div className="flex flex-col space-y-4 pb-4">
+            <Link href="/" className="px-4 py-2 text-gray-700" onClick={() => setIsMenuOpen(false)}>Home</Link>
+            <Link href="/about" className="px-4 py-2 text-gray-700" onClick={() => setIsMenuOpen(false)}>About Us</Link>
+            <Link href="/projects" className="px-4 py-2 text-gray-700" onClick={() => setIsMenuOpen(false)}>Projects</Link>
+            <Link href="/get-involved" className="px-4 py-2 text-gray-700" onClick={() => setIsMenuOpen(false)}>Get Involved</Link>
+            <Link href="/events" className="px-4 py-2 text-gray-700" onClick={() => setIsMenuOpen(false)}>Events</Link>
             
             {/* FIXED MOBILE DONATE BUTTON */}
             <a

@@ -144,7 +144,7 @@ export default function About() {
               </div>
               <div className="mt-12">
                 <h3 className="text-2xl font-semibold text-blue-800 mb-4">Officers</h3>
-                <div className="grid grid-cols-3 md:grid-cols-2 gap-8">
+                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
                   <div className="flex items-center">
                     <div className="relative w-16 h-16 rounded-full overflow-hidden mr-4">
                     <Image 
